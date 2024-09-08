@@ -105,8 +105,8 @@ current_tetromino = Tetromino()
 
 # Biến điều khiển game
 clock = pygame.time.Clock()
-fall_time = 0
-fall_speed = 0.5  # Thời gian (giây) giữa mỗi lần rơi tự động
+# fall_time = 0
+# fall_speed = 0.5  # Thời gian (giây) giữa mỗi lần rơi tự động
 
 # Vòng lặp chính của game
 running = True
